@@ -1,3 +1,12 @@
+
+
+
+https://github.com/user-attachments/assets/564825fb-ea47-467a-88a9-6437f45879d3
+
+
+
+Main cdes lies in 2 files that is Cards.tsx and Cars.tsx
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
