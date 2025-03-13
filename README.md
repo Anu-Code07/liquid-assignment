@@ -1,6 +1,8 @@
 # Main codes lies in 2 files that is in Components that is Cards.tsx and Cars.tsx
 # Rest of the files are just expo files 
 
+Carousel is so extensible it can handle images as well as vidoes and whole component is modular and very concise in nature and can be reused
+
 
 
 
