@@ -1,4 +1,4 @@
-# Main codes lies in 2 files that is Cards.tsx and Cars.tsx
+# Main codes lies in 2 files that is in Components that is Cards.tsx and Cars.tsx
 # Rest of the files are just expo files 
 
 
