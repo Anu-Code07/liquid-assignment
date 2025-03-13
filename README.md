@@ -1,3 +1,7 @@
+# Main codes lies in 2 files that is Cards.tsx and Cars.tsx
+# Rest of the files are just expo files 
+
+
 
 
 
@@ -5,7 +9,7 @@ https://github.com/user-attachments/assets/564825fb-ea47-467a-88a9-6437f45879d3
 
 
 
-Main cdes lies in 2 files that is Cards.tsx and Cars.tsx
+
 
 # Welcome to your Expo app 👋
 
